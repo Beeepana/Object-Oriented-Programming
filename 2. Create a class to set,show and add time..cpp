@@ -1,3 +1,8 @@
+     Create a class named time with data members hour,minute and second. Use member function settime() to set time, gettime() to read
+time from user,addtime() to add two times and showtime() to show time in HH:MM:SS format.
+
+
+
 # include<iostream>
 using namespace std;
 
