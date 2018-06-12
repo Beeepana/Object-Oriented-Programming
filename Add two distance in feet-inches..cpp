@@ -1,3 +1,12 @@
+     Define a class with
+	     data members:
+                          -feet and inches
+             member function:
+                          -to read data member
+			  -to display result in format feet-inches
+			  -to add two distance object and returning distance object.
+
+
 #include<iostream>
 using namespace std;
 class length
