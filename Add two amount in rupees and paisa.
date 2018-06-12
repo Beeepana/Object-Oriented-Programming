@@ -1,3 +1,13 @@
+Define a class amount with
+	data members
+	-rupees 
+	-paisa
+	member function
+	-to read data member
+	-to display amount in appropriate format
+	-to add two amounts
+
+
 #include<iostream>
 using namespace std;
 class amount
